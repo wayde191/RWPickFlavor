@@ -41,7 +41,7 @@ s.dependency 'BetterBaseClasses', '~> 1.0'
 s.dependency 'MBProgressHUD', '~> 0.9.0'
 
 # 8
-s.source_files = "RWPickFlavor/**/*.{swift}"
+s.source_files = "RWPickFlavor/**/*.{swift}", "RWPickFlavor/*.{swift}"
 
 # 9
 s.resources = "RWPickFlavor/**/*.{png,jpeg,jpg,storyboard,xib}"

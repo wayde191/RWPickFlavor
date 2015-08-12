@@ -21,6 +21,7 @@
 		42C9AAF41B31330100E19D9E /* RWPickFlavor.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 42C9AAE81B31330100E19D9E /* RWPickFlavor.framework */; };
 		42C9AAFB1B31330100E19D9E /* RWPickFlavorTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42C9AAFA1B31330100E19D9E /* RWPickFlavorTests.swift */; };
 		A48E67BDEF8B2C738A8F7781 /* Pods_RWPickFlavor.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = ACB4EB3A0BC6B7B67390DC71 /* Pods_RWPickFlavor.framework */; settings = {ATTRIBUTES = (Weak, ); }; };
+		BA0CB0031B7C1238001294C3 /* RWPickFlavor.podspec in Resources */ = {isa = PBXBuildFile; fileRef = BA0CB0021B7C1238001294C3 /* RWPickFlavor.podspec */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		42C9AAF91B31330100E19D9E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		42C9AAFA1B31330100E19D9E /* RWPickFlavorTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RWPickFlavorTests.swift; sourceTree = "<group>"; };
 		ACB4EB3A0BC6B7B67390DC71 /* Pods_RWPickFlavor.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_RWPickFlavor.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		BA0CB0021B7C1238001294C3 /* RWPickFlavor.podspec */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = RWPickFlavor.podspec; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -146,6 +148,7 @@
 		42C9AADE1B31330100E19D9E = {
 			isa = PBXGroup;
 			children = (
+				BA0CB0021B7C1238001294C3 /* RWPickFlavor.podspec */,
 				42C9AAEA1B31330100E19D9E /* RWPickFlavor */,
 				42C9AAF71B31330100E19D9E /* RWPickFlavorTests */,
 				42C9AAE91B31330100E19D9E /* Products */,
@@ -314,6 +317,7 @@
 			files = (
 				428055901B31360400921EC7 /* Main.storyboard in Resources */,
 				428055931B31372400921EC7 /* background.jpg in Resources */,
+				BA0CB0031B7C1238001294C3 /* RWPickFlavor.podspec in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
