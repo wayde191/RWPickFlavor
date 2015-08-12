@@ -8,7 +8,7 @@ s.summary = "RWPickFlavor lets a user select an ice cream flavor."
 s.requires_arc = true
 
 # 2
-s.version = "0.6.0"
+s.version = "0.7.0"
 
 # 3
 s.license = { :type => "MIT", :file => "LICENSE" }
@@ -41,7 +41,7 @@ s.dependency 'BetterBaseClasses', '~> 1.0'
 s.dependency 'MBProgressHUD', '~> 0.9.0'
 
 # 8
-s.source_files = "RWPickFlavor/**/*.{swift}", "RWPickFlavor/*.{swift}"
+s.source_files = "RWPickFlavor/**/*.{swift}", "RWPickFlavor/*.{h}"
 
 
 # 9
