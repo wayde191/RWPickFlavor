@@ -21,7 +21,7 @@ s.author = { "Wayde Sun" => "wsun191@gmail.com" }
 
 
 # 5 - Replace this URL with your own Github page's URL (from the address bar)
-s.homepage = "[Your RWPickFlavor Homepage URL Goes Here]"
+s.homepage = "https://github.com/wayde191/RWPickFlavor"
 
 # For example,
 # s.homepage = "https://github.com/wayde191/RWPickFlavor"
